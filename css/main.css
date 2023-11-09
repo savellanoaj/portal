@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
 html {
-    background-color: lightgray;
+    background-image: linear-gradient(rgb(27 108 209), rgb(27 108 209), white, white, black);
     font-family: 'Manrope', sans-serif;
     font-size: 1.5em;
     line-height: 1.5em;
@@ -12,7 +12,7 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: rgb(27 108 209);
 }
 
 h1 {
